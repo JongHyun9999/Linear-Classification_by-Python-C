@@ -1,5 +1,9 @@
 # Neural Network Forward and Backward Propagation Code Repository
 
+> PPT file : https://docs.google.com/presentation/d/1xj0IgXs4lz6A-H1IErjPciLlPkjICw8Y/edit?usp=sharing&ouid=109216185127626877008&rtpof=true&sd=true
+
+=============================================
+
 This repository contains foundational code written to understand the forward and backward propagation and equations of neural networks. 
 It includes implementations in both C language and a library-free Python version. 
 All implementations feature a simple 3-layer network, utilizing ReLU, Sigmoid, and Cross Entropy functions. 
